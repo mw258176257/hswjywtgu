@@ -1,5 +1,7 @@
 package cc
 
-func main() {
+import "fmt"
 
+func pri() {
+fmt.Printf("xxxxxx")
 }
