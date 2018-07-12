@@ -2,6 +2,6 @@ package cc
 
 import "fmt"
 
-func pri() {
+func Pri() {
 fmt.Printf("xxxxxx")
 }
